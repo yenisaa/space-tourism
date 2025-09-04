@@ -1,0 +1,25 @@
+@import 'tailwindcss';
+
+
+
+@theme{
+    --font-heading: "Bellefair";
+    --font-lead: "Barlow Condensed";
+    --font-paragraph: "Barlow";
+
+    --text-preset-1: 144px;
+    --text-preset-2: 100px;
+    --text-preset-3: 56px;
+    --text-preset-4: 32px;
+    --text-preset-5: 28px;
+    --text-preset-6: 28px;
+    --text-preset-7: 14px;
+    --text-preset-8:16px;
+    --text-preset-9: 18px;
+
+    --font-blue: #0B0D17;
+    --font-blue-300: #D0D6F9;
+
+}
+
+
