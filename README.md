@@ -17,7 +17,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ## 📂 Pages Implemented
 ✅ Home page  
 ✅ Destination page (with dynamic planet details)  
-❌ Crew page *(WIP)*  
+✅ Crew page 
 ❌ Technology page *(WIP)*  
 
 ---
